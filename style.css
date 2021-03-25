@@ -1,0 +1,16 @@
+/* .pic1{
+    background-color:  grey ; margin: 0px; font-size: 50px; 
+    padding: 70px;
+        border: 2px solid grey;}
+    a:link {
+        text-decoration: none;
+      } */
+    .topnav-right {
+        background-color:  grey ;  font-size: 50px; 
+        padding: 70px;
+        border: 2px solid grey;}
+    a:link {
+        text-decoration: none;
+        color: white;
+        float: right;
+      }
